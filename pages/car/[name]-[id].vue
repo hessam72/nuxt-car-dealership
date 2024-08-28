@@ -8,6 +8,8 @@ useHead({
   title: toTitleCase(route.params.name),
 });
 
+
+
 definePageMeta({
   layout: "custom",
 });
